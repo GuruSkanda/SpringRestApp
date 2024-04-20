@@ -21,7 +21,7 @@ No need to install the above dependencies manually in spring boot application be
 - @Mock
 - @BeforeEach
 - @AfterEach
-- 
+- @WebMvcTest
   
 
   
